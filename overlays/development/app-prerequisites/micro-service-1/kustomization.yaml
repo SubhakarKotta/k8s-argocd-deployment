@@ -5,4 +5,4 @@ bases:
 resources:
    - namespace.yaml
 patchesStrategicMerge:
-    - registry-secrets.yaml
+   - registry-secrets.yaml
